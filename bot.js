@@ -29,7 +29,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep @KokasPro#5250')
     }
 });
 
@@ -47,7 +47,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep @KokasPro#5250')
     }
 });
 
@@ -58,7 +58,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**كردت سبام Credit Farm made by KokasPro#5250 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +72,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**كردت سبام Credit Farm made by KokasPro#5250 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
